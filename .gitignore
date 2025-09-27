@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Virtual environment
+venv/
+.env/
+Pipfile.lock
